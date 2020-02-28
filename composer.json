@@ -1,0 +1,19 @@
+{
+    "name": "cyr/ueditor",
+    "description": "editor\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Du",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhengtaoyu",
+            "email": "717828758@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "cyr\\ueditor\\": ""
+        }
+    }
+
+}
